@@ -275,21 +275,3 @@ with risk3:
     st.caption("Consider additional academic support.")
 
 
-# Footer
-st.divider()
-
-st.markdown("### 👥 ")
-# Footer
-st.divider()
-
-st.markdown("### 👥 ")
-
-team1, team2 = st.columns(2)
-
-with team1:
-    st.write("👩‍💻 ****")
-    st.caption("Machine Learning, Data & Website Development")
-
-with team2:
-    st.write("👩‍💻 **Roshni Rajak**")
-    st.caption("")

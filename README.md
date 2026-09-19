@@ -10,16 +10,6 @@ EduRisk is a machine learning-based web application that predicts a student's ex
 
 
 
-\## 👥 Team
-
-
-
-\- \*\*\*\* — Machine Learning, Data \& Website Development
-
-\- \*\*Roshni Rajak\*\* — Final Demo, Voice-over \& Project Presentation
-
-
-
 \## 🎯 Problem Statement
 
 
